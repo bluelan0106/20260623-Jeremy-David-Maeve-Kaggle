@@ -129,7 +129,3 @@ REG_ds5_fsY_huber    → Regression, dataset 5, with FS, Huber loss
 Strategy columns append the sizing method: `..._vanilla` / `..._kelly`.
 
 ---
-
-## Authors
-
-Jeremy · David · Maeve — HWTeng FIMA Lab, NYCU.
